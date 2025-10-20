@@ -11,7 +11,7 @@ git clone https://github.com/sayankar144/End-to-End-Book-Recommendation-System.g
 
 ```
 
-# STEP 01 - Create a conda enviroment after opeing the repository
+### STEP 01 - Create a conda enviroment after opeing the repository
 
 ```bash
 conda create -n books python=3.12 -y
